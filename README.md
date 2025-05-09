@@ -9,6 +9,13 @@
 
 # Устанока
 
+Для клонирования репозитория:
+```
+git clone https://github.com/clay1299/KeybordTranslator.git
+```
+
+Для скачивания dll файла [тут](https://github.com/clay1299/KeybordTranslator/releases/download/v.1.0/KeybordTranslator.dll)
+
 # Документация по библиотеке
 ### Есть всего 2 метода ```En2Ru``` и ```Ru2En```
 _Что делает каждый понятно по названию_
